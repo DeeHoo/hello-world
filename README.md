@@ -1,4 +1,2 @@
 # hello-world
-Hello Machine Learning
-!!!
-+wow
+Hello Machine Learning!!!WOW!!!
